@@ -1,6 +1,7 @@
 package main 
 
 
-func main(){
+func main()
+{
 	println ("Hello golang")
 }
